@@ -17,4 +17,4 @@ Blue Team é responsável pela defesa dos sistemas, monitoramento de eventos, de
 - Monitoramento básico
 
 ## Objetivo deste repositório
-Documentar estudos práticos e fundamentos iniciais de Blue Team.
+Documentar estudos práticos e fundamentos iniciais de Blue Team. 
